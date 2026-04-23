@@ -1,3 +1,2 @@
-st.bar_chart()
 streamlit
-openpyxl
+pandas
