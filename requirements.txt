@@ -1,3 +1,3 @@
-matplotlib
+st.bar_chart()
 streamlit
 openpyxl
